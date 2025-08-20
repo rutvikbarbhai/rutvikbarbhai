@@ -123,6 +123,11 @@ Flutter app for table reservation database management
   ## Patents
   IN23/2404 Application No. 202441091887 Device and method for monitoring blood parameters of a user
 
+  <h1 style="color: #00ffff; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00ffff, 0 0 40px #00ffff;">
+  Glowing Text Example
+</h1>
+
+
 
 
 
