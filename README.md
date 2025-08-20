@@ -33,7 +33,7 @@
 
 ### Artificial Intelligence & Machine learning
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-2C3E50?style=for-the-badge)
-![Natural Language Processing](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-8E44AD?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-34495E?style=for-the-badge)
