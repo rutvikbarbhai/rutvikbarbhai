@@ -61,14 +61,14 @@
 - 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
 
 ## 🌟 Featured Projects  
-### 🌫️ Pollution Predictor  
+### 🌫️ Pollution Predictor (2025) 
 A Machine Learning Model forecasting air quality  
 
 - 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
 - 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
 - ⚡ **Integrated TensorFlow.js for seamless browser-based real-time inference, ensuring fast, accessible, and scalable deployment.**
   
-### 🧬 Pedigree Chart Inheritance Predictor
+### 🧬 Pedigree Chart Inheritance Predictor (2025)
 TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive
 Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
 
@@ -78,7 +78,7 @@ Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
   
 **Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Convolutional Neural Networks` 
 
-### 🏥 Medisure Health Flutter Application
+### 🏥 Medisure Health Flutter Application (2024)
 A Flutter app for IoT based Arduino nano non-invasive device for comprehensive blood glucose monitoring.
 
 - 📱 **Developed an end-to-end industrial IoT health monitoring app using Flutter/Dart with Firebase for real-time sync.**
@@ -87,7 +87,7 @@ A Flutter app for IoT based Arduino nano non-invasive device for comprehensive b
   
 **Tech Stack:** `Flutter` `Dart` `Software Engineering` `Google Firebase` `Firestone` `RestAPI`  
 
-### 🍽️ Date Night Dine
+### 🍽️ Date Night Dine (2024)
 Flutter app for table reservation database management
 
 - 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30 %.**
