@@ -80,6 +80,7 @@ Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
 
 ### 🏥 Medisure Health Flutter Application (2024)
 A Flutter app for IoT based Arduino nano non-invasive device for comprehensive blood glucose monitoring.
+<img width="2730" height="2048" alt="untitled_artwork_10_2" src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="200" align="right" style="margin-left: 20px; margin-bottom: 10px;"/> />
 
 - 📱 **Developed an end-to-end industrial IoT health monitoring app using Flutter/Dart with Firebase for real-time sync.**
 - </> **Applied Concepts of Software Engineering Like SDLC Prototype Model in development, achieving 95% alignment with objectives and improving development efficiency by 40% through iterative prototype refinement.**  
