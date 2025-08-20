@@ -1,4 +1,4 @@
-## Hi, I'm Rutvik Barbhai <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai
 💻 **I am a Computer Science & Engineering Student @ Manipal Institute of Technology**  
 🚀 Passionate about **Artificial Intelligence & Machine Learning** 
 
