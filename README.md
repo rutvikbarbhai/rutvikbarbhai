@@ -43,7 +43,8 @@
 ![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) 
-![Database Management Systems](https://img.shields.io/badge/Database%20Management%20Systems-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL%20Database-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ## 🛠 Version Control & Project Management  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
