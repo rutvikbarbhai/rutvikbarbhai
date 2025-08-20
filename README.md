@@ -84,7 +84,7 @@ TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into A
 ### 🏥 Medisure Health Flutter Application (2024)
 A Flutter app for IoT based Arduino nano non-invasive device for comprehensive blood glucose monitoring.
 
-
+<img align="right" src="https://github.com/user-attachments/assets/b74aebe3-b068-4b33-84a3-1488b0b525c7" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
 - 📱 **Developed an end-to-end industrial IoT health monitoring app using Flutter/Dart with Firebase for real-time sync.**
 - </> **Applied Concepts of Software Engineering Like SDLC Prototype Model in development, achieving 95% alignment with objectives and improving development efficiency by 40% through iterative prototype refinement.**  
@@ -98,7 +98,7 @@ Flutter app for table reservation database management
 
 <img src="https://github.com/user-attachments/assets/84a06f73-fc8b-441a-9181-ad3c42ee75a6" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
-- 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30 %.**
+- 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30%.**
 - 🎨 **Designed intuitive UI/UX for Table reservation based mobile app, resulting in 25 % increase in user satisfaction and a 20 % reduction in user churn.**  
 - 🔗 **Implemented REST APIs for seamless communication between mobile app and Backend services, reducing data retrieval time by 50 %.**
 
