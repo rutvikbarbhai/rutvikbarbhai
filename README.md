@@ -87,6 +87,17 @@ A Flutter app for IoT based Arduino nano non-invasive device for comprehensive b
   
 **Tech Stack:** `Flutter` `Dart` `Software Engineering` `Google Firebase` `Firestone` `RestAPI`  
 
+### 🍽️ Date Night Dine
+Flutter app for table reservation database management
+
+- 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30 %.**
+- 🎨 **Designed intuitive UI/UX for Table reservation based mobile app, resulting in 25 % increase in user satisfaction and a 20 % reduction in user churn.**  
+- 🔗 **Implemented REST APIs for seamless communication between mobile app and Backend services, reducing data retrieval time by 50 %.**
+- 🔄 **Integrated JSON data parsing to streamline data exchange between the client and server, resulting in 15% processing speed.**
+
+**Tech Stack:** `Flutter` `Dart` `JSON` `Google Firebase` `Firestone` `RestAPI`  
+
+
 
 
 
