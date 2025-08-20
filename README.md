@@ -38,5 +38,19 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-34495E?style=for-the-badge)
 
+## ☁️ Cloud & Database  
+![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
+![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) 
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) 
+![Database Management Systems](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=databricks&logoColor=white)  
+
+## 🛠 Version Control & Project Management  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white) 
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+
+
 
 
