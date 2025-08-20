@@ -91,8 +91,6 @@ A Flutter app for IoT based Arduino nano non-invasive device for comprehensive b
 
 ### 🍽️ Date Night Dine (2024)
 Flutter app for table reservation database management
-<img src="https://github.com/user-attachments/assets/31801375-d48b-425b-bd59-d1ee1f66f71c" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
-
 
 - 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30 %.**
 - 🎨 **Designed intuitive UI/UX for Table reservation based mobile app, resulting in 25 % increase in user satisfaction and a 20 % reduction in user churn.**  
