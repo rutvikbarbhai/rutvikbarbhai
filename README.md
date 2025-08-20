@@ -46,8 +46,6 @@
 ![SQL](https://img.shields.io/badge/SQL%20Database-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-
-
 ### 🛠 Version Control & Project Management  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
@@ -56,13 +54,19 @@
 
 ## 💼 Professional Experience
 ### Software Developer Intern  
-[JPMorgan Chase](https://www.jpmorganchase.com/)  Jan 2024 – Jun 2024  
+[JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024  
 
 - 🌐 **HTTP Request Tracking:** Tracked and logged HTTP requests and responses (URLs, headers, payloads) into a secure **MySQL database** using **Java & Spring Boot**.  
 - 📊 **Data Visualization Dashboard:** Created a web dashboard with **Chart.js**, displaying metrics such as number of requests per domain and total data size transferred.  
-- 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.  
+- 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
 
+## 🌟 Featured Projects  
+### 🌫️ Pollution Predictor  
+A Machine Learning Model forecasting air quality  
 
+**🏗️ Designed and deployed a machine learning-powered web app for real-time air quality forecasting, tackling concerns over public health and climate change** 
+**📊 Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models for accurate pollution predictions.**  
+**⚡ Real-Time Inference: Integrated TensorFlow.js to enable fast, accessible, and scalable browser-based predictions.**  
 
 
 
