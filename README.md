@@ -102,7 +102,6 @@ Flutter app for table reservation database management
 - Minor Specialization in Computational Intelligence
   
 -**Manipal Institute of Technology**  • 2022 – 2026
-
 - **Relevant Coursework:**
   - Data Structures & Algorithms
   - Object Oriented Programming
@@ -115,8 +114,6 @@ Flutter app for table reservation database management
   - Parallel Computing
   - Blockchain Technology
 
-
-- 
 
 
 
