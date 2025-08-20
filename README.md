@@ -62,7 +62,7 @@
 ## 🌟 Featured Projects  
 ### 🌫️ Pollution Predictor (2025) 
 A Machine Learning Model forecasting air quality  
-<img src="https://github.com/user-attachments/assets/4182585e-dbc2-4283-8a4a-a5785a50de41" width="200" align="right" style="margin-left: 20px; margin-bottom: 10px;"/>
+<img src="https://github.com/user-attachments/assets/4182585e-dbc2-4283-8a4a-a5785a50de41" width="200" align="right" style="margin-left: 30px; margin-bottom: 10px;"/>
 
 - 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
 - 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
@@ -71,7 +71,7 @@ A Machine Learning Model forecasting air quality
 ### 🧬 Pedigree Chart Inheritance Predictor (2025)
 TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive
 Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
-<img src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="200" align="right" style="margin-left: 20px; margin-bottom: 10px; margin-top: 15px;"/>
+<img src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="200" align="right" style="margin-left: 30px; margin-bottom: 10px; margin-top: 15px;"/>
 
 - 🛠️ **Built a custom pedigree chart dataset modeling autosomal dominant/recessive, X-linked dominant/recessive, and Ylinked dominant/recessive inheritance patterns.**
 - 📈 **Trained and optimized a TensorFlow classification model with preprocessing, normalization, and one-hot encoding ,using the Adam optimizer for faster convergence.**  
