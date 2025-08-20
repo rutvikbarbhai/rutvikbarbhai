@@ -64,9 +64,11 @@
 ### 🌫️ Pollution Predictor  
 A Machine Learning Model forecasting air quality  
 
--**🏗️ Designed and deployed a machine learning-powered web app for real-time air quality forecasting, tackling concerns over public health and climate change** 
--**📊 Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models for accurate pollution predictions.** 
--**⚡ Real-Time Inference: Integrated TensorFlow.js to enable fast, accessible, and scalable browser-based predictions.**  
-
+- 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
+- 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
+- ⚡ **Integrated TensorFlow.js for seamless browser-based real-time inference, ensuring fast, accessible, and scalable deployment.**
+- 
+**Tech Stack:** `TensorFlow.js` `Python` `Flask` `Chart.js` `Pandas` `Scikit-learn`  
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2QyNnI3OTIxZXZ3YWdsZTBqb2s0Z3g3MndkcGM0bnJ5ODF3bTQ0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u4nJPf0JtQPdStq/giphy.gif" width="300px" align="right" />
 
 
