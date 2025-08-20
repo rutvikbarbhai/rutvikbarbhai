@@ -118,7 +118,7 @@ Flutter app for table reservation database management
   -Pollution Predictor : A machine Learning Model For Forecasting Air Quality
 
   ## Patents
-  -PATENT IN23/2404 Application No. 202441091887 Device and method for monitoring blood parameters of a user (check spelling)
+  IN23/2404 Application No. 202441091887 Device and method for monitoring blood parameters of a user 
 
 
 
