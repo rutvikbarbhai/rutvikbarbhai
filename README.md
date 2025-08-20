@@ -1,5 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai
-💻 **I am a Computer Science & Engineering Student @ Manipal Institute of Technology**  
+💻 **I am a Final Year Computer Science & Engineering Student @ Manipal Institute of Technology**
+🤖 **Pursuing my Minor Specialization in Computational Intelligence**
 🚀 Passionate about **Artificial Intelligence & Machine Learning** 
 
 I love building intelligent systems that combine **AI + Machine Learning** to solve real-world problems.  
