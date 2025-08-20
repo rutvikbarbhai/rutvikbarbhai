@@ -97,6 +97,24 @@ Flutter app for table reservation database management
 
 **Tech Stack:** `Flutter` `Dart` `JSON` `Google Firebase` `Firestone` `RestAPI`  
 
+## 🎓 Education
+Bachelor of Technology, Computer Science and Engineering 
+Minor Specialization in Computational Intelligence
+Manipal Institute of Technology •2022 – 2026
+
+Relevant Coursework:
+Data Structures & Algorithms
+Object Oriented Programming
+Operating Systems 
+Computer Networks
+Soft Computing Paradigms
+Artificial Intelligence 
+Machine Learning
+Computer Vision
+Parallel Computing
+Blockchain Technology
+
+
 
 
 
