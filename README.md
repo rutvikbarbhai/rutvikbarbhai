@@ -96,7 +96,7 @@ A Flutter app for IoT based Arduino nano non-invasive device for comprehensive b
 Flutter app for table reservation database management
 
 
-<img src="https://github.com/user-attachments/assets/84a06f73-fc8b-441a-9181-ad3c42ee75a6" width="220" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
+<img src="https://github.com/user-attachments/assets/84a06f73-fc8b-441a-9181-ad3c42ee75a6" width="215" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
 - 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30 %.**
 - 🎨 **Designed intuitive UI/UX for Table reservation based mobile app, resulting in 25 % increase in user satisfaction and a 20 % reduction in user churn.**  
