@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai  
+<img width="217" height="140" alt="image" src="https://github.com/user-attachments/assets/fb9d30c5-7c04-4147-96d7-dd8111a081d4" />## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai  
 
 💻 **Final Year Computer Science & Engineering Student @ Manipal Institute of Technology**  
 🤖 **Pursuing Minor Specialization in Computational Intelligence**  
@@ -63,7 +63,7 @@
 ## 🌟 Featured Projects  
 ### 🌫️ Pollution Predictor  
 A Machine Learning Model forecasting air quality  
-<img src="https://i.imgur.com/v7wGkTX.gif" width="300px" align="right" />
+<img src="https://media.giphy.com/media/l4pTfcQUa8H1QvQW8/giphy.gif" width="300px" align="right" />
 
 - 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
 - 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
