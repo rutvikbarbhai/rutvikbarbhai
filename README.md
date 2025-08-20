@@ -63,12 +63,20 @@
 ## 🌟 Featured Projects  
 ### 🌫️ Pollution Predictor  
 A Machine Learning Model forecasting air quality  
-<img src="src="https://i.pinimg.com/originals/a3/40/7a/a3407ae8f64ca67350f889b4730b9718.gif" width="300px" align="right" />
 
 - 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
 - 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
 - ⚡ **Integrated TensorFlow.js for seamless browser-based real-time inference, ensuring fast, accessible, and scalable deployment.**
   
-**Tech Stack:** `TensorFlow.js` `Python` `Flask` `Chart.js` `Pandas` `Scikit-learn`  
+### 🌫️ Pedigree Chart Inheritance Predictor
+TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive
+Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
+
+- 🛠️ **Built a custom pedigree chart dataset modeling autosomal dominant/recessive, X-linked dominant/recessive, and Ylinked dominant/recessive inheritance patterns.**
+- 📈 **Trained and optimized a TensorFlow classification model with preprocessing, normalization, and one-hot encoding ,using the Adam optimizer for faster convergence.**  
+- 🎯 **Applied hyperparameter tuning and cross-validation, achieving 94% accuracy in predicting inheritance patterns on unseen data.**
+  
+**Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Convolutional Neural Networks`  
+
 
 
