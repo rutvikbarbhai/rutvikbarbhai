@@ -10,9 +10,6 @@
 
 ## 🛠️ Skills & Technologies
 
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="40"/>  
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="40"/>  
-
 ### Programming Languages  
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
