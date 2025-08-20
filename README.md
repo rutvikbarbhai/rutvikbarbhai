@@ -76,7 +76,17 @@ Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
 - 📈 **Trained and optimized a TensorFlow classification model with preprocessing, normalization, and one-hot encoding ,using the Adam optimizer for faster convergence.**  
 - 🎯 **Applied hyperparameter tuning and cross-validation, achieving 94% accuracy in predicting inheritance patterns on unseen data.**
   
-**Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Convolutional Neural Networks`  
+**Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Convolutional Neural Networks` 
+
+### 🏥 Medisure Health Flutter Application
+A Flutter app for IoT based Arduino nano non-invasive device for comprehensive blood glucose monitoring.
+
+- 📱 **Developed an end-to-end industrial IoT health monitoring app using Flutter/Dart with Firebase for real-time sync.**
+- </> **Applied Concepts of Software Engineering Like SDLC Prototype Model in development, achieving 95% alignment with objectives and improving development efficiency by 40% through iterative prototype refinement.**  
+- ⚡ **Conducted performance optimization tests, improving system efficiency by 30%.**
+  
+**Tech Stack:** `Flutter` `Dart` `Software Engineering` `Google Firebase` `Firestone` `RestAPI`  
+
 
 
 
