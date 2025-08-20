@@ -70,7 +70,7 @@ A Machine Learning Model forecasting air quality
 - 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
 - ⚡ **Integrated TensorFlow.js for seamless browser-based real-time inference, ensuring fast, accessible, and scalable deployment.**
   
-  **Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Deep Neural Networks` 
+**Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Deep Neural Networks` 
 
 ### 🧬 Pedigree Chart Inheritance Predictor (2025)
 TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
