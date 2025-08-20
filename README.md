@@ -63,7 +63,7 @@
 ## 🌟 Featured Projects  
 ### 🌫️ Pollution Predictor  
 A Machine Learning Model forecasting air quality  
-<img src="https://media.giphy.com/media/l4pTfcQUa8H1QvQW8/giphy.gif" width="300px" align="right" />
+<img src="src="https://i.pinimg.com/originals/a3/40/7a/a3407ae8f64ca67350f889b4730b9718.gif" width="300px" align="right" />
 
 - 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
 - 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
