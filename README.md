@@ -31,4 +31,12 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
+### Artificial Intelligence & Machine learning
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=for-the-badge&logo=brain&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge&logo=googlelens&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+
 
