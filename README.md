@@ -71,6 +71,7 @@ A Machine Learning Model forecasting air quality
   
 ### 🧬 Pedigree Chart Inheritance Predictor (2025)
 TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
+
 <img src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
 - 🛠️ **Built a custom pedigree chart dataset modeling autosomal dominant/recessive, X-linked dominant/recessive, and Ylinked dominant/recessive inheritance patterns.**
