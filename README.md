@@ -106,10 +106,12 @@ Flutter app for table reservation database management
 
 **Tech Stack:** `Flutter` `Dart` `JSON` `Google Firebase` `Firestone` `RestAPI`  
 
-## 🎓 Education
+## 🎓 Education 
+<img src="https://github.com/user-attachments/assets/4e61b482-4888-4749-9670-f0cebd7b372f" alt="Manipal University Logo" width="150" align="right"/>
+
 - Bachelor of Technology, Computer Science and Engineering 
 - Minor Specialization in Computational Intelligence
-  
+
 **Manipal Institute of Technology**  • 2022 – 2026
 - **Relevant Coursework:**
   - Data Structures & Algorithms
