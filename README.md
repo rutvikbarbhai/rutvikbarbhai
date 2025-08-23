@@ -131,21 +131,21 @@ Pollution Predictor : A machine Learning Model For Forecasting Air Quality
 ## 💡 Patents
 IN23/2404 Application No. 202441091887 Device and method for monitoring blood parameters of a user
 
-## 📈 GitHub Stats & Activity  
+# 📈 GitHub Stats & Activity  
 
-### ⚡ GitHub Stats  
+## ⚡ GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rutvikbarbhai&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbarbhai&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📊 Contribution Graph  
+## 📊 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvikbarbhai&theme=radical" />
 </p>
 
 ---
@@ -153,7 +153,7 @@ IN23/2404 Application No. 202441091887 Device and method for monitoring blood pa
 ## 🔥 GitHub Streaks  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikbarbhai&theme=radical" />
 </p>
 
 ---
@@ -161,7 +161,7 @@ IN23/2404 Application No. 202441091887 Device and method for monitoring blood pa
 ## 🏆 GitHub Profile Trophy  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rutvikbarbhai&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -169,7 +169,7 @@ IN23/2404 Application No. 202441091887 Device and method for monitoring blood pa
 ## 🗂️ Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=10&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbarbhai&langs_count=10&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -178,8 +178,6 @@ IN23/2404 Application No. 202441091887 Device and method for monitoring blood pa
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-
 
 
 
