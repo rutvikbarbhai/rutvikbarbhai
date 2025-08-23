@@ -131,6 +131,54 @@ Pollution Predictor : A machine Learning Model For Forecasting Air Quality
 ## 💡 Patents
 IN23/2404 Application No. 202441091887 Device and method for monitoring blood parameters of a user
 
+## 📈 GitHub Stats & Activity  
+
+### ⚡ GitHub Stats  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📊 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophy  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🗂️ Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=10&layout=compact&theme=radical" />
+</p>
+
+---
+
+## ⏳ Coding Activity  
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 
