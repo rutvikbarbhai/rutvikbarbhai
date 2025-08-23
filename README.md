@@ -145,8 +145,9 @@ IN23/2404 Application No. 202441091887 Device and method for monitoring blood pa
 ### 📊 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvikbarbhai&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvikbarbhai&theme=react-dark" />
 </p>
+
 
 ---
 
