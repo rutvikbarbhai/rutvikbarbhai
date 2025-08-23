@@ -153,9 +153,7 @@ IN23/2404 Application No. 202441091887 Device and method for monitoring blood pa
 
 ### 🔥 GitHub Streaks  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikbarbhai&theme=radical" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikbarbhai&theme=radical" />
 
 ---
 
