@@ -158,12 +158,10 @@ IN23/2404 Application No. 202441091887 Device and method for monitoring blood pa
 ---
 
 ### 🏆 GitHub Achievements  
-
-<p align="center">
-  <!--START_SECTION:achievements-->
-  <!--END_SECTION:achievements-->
-</p>
-
+<a href="https://github.com/rutvikbarbhai?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100">  
+  <br>
+</a>
 
 ---
 
