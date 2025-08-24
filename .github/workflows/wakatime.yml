@@ -2,14 +2,13 @@ name: WakaTime Coding Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs daily at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch: # allow manual trigger
 
 jobs:
   update-readme:
-    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
