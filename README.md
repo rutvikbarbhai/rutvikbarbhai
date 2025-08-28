@@ -174,7 +174,6 @@ Flutter app for table reservation database management
 ---
 
 ## ⏳ Coding Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 
