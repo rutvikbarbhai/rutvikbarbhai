@@ -176,7 +176,6 @@ Flutter app for table reservation database management
 
 ---
 
-## ⏳ Coding Activity
 
 
 
