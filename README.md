@@ -54,7 +54,7 @@
 ## 💼 Professional Experience
 ### Intern(US)
 [Xcitium](https://www.xcitium.com/)  Dec 2025 – Present 
-Currently Onboarded as a NuFintech Intern (U.S.-based)
+- Currently Onboarded as a NuFintech Intern (U.S.-based)
 
 ### Software Developer Intern  
 [JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024 
