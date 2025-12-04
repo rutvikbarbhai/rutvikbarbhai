@@ -52,9 +52,12 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ## 💼 Professional Experience
-### Software Developer Intern  
-[JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024  
+### Intern(US)
+[Xcitium](https://www.xcitium.com/)  Dec 2025 – Present 
+Currently Onboarded as a NuFintech Intern (U.S.-based)
 
+### Software Developer Intern  
+[JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024 
 - 🌐 **HTTP Request Tracking:** Tracked and logged HTTP requests and responses (URLs, headers, payloads) into a secure **MySQL database** using **Java & Spring Boot**.  
 - 📊 **Data Visualization Dashboard:** Created a web dashboard with **Chart.js**, displaying metrics such as number of requests per domain and total data size transferred.  
 - 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
