@@ -53,7 +53,7 @@
 
 ## 💼 Professional Experience
 ### Intern(US)
-[Xcitium](https://www.xcitium.com/)  Nov 2025 – Dec 2025 
+[Xcitium](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
 - Built data-driven trading intelligence models leveraging market microstructure gamma-exposure analytics.
 - Improved trade-outcome prediction accuracy by 30% through optimized ML pipelines and semantically rich
 composite features.
