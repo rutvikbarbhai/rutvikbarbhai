@@ -160,18 +160,18 @@ Flutter app for table reservation database management
 ---
 
 ### 🔥 GitHub Streaks  
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikbarbhai&theme=radical" />
 
----
-
-### 🏆 GitHub Achievements  
 <a href="https://github.com/rutvikbarbhai?tab=achievements" title="Pull Shark">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark">
 </a>
 <a href="https://github.com/rutvikbarbhai?tab=achievements" title="Quickdraw">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw">
-</a>
+</a
+---
+
+### 🏆 GitHub Achievements  
+
 
 
 ---
