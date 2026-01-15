@@ -52,6 +52,9 @@ hsjjevshdh
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ## 💼 Professional Experience
+
+### Amazon
+
 ### Intern(US)
 [Xcitium](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
 - Built data-driven trading intelligence models leveraging market microstructure gamma-exposure analytics.
