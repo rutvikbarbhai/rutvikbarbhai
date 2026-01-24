@@ -6,7 +6,6 @@
 ✨ I love building intelligent systems that combine **AI + Machine Learning** to solve real-world problems.  
 🔍 Currently exploring **LLMs, Computer Vision, and Blockchain Security**, while contributing to **open-source projects**.  
 🌱 On a mission to **learn, build, and innovate every day**.  
-hsjjevshdh
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages  
