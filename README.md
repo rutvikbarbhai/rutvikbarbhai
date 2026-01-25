@@ -6,7 +6,7 @@
 ✨ I love building intelligent systems that combine **AI + Machine Learning** to solve real-world problems.  
 🔍 Currently exploring **LLMs, Computer Vision, and Blockchain Security**, while contributing to **open-source projects**.  
 🌱 On a mission to **learn, build, and innovate every day**.  
-## 🛠️ Skills & Technologies
+##  <img src="https://github.com/user-attachments/assets/612137fd-b2de-411c-acd7-f94c4811e9f2" height="30px" style="vertical-align:text-bottom;">Skills & Technologies
 
 ### Programming Languages  
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
