@@ -53,7 +53,6 @@
 ## 💼 Professional Experience
 ### Associate
 [Amazon](https://www.amazon.com/) Jan 2026- Present 
-- Currently Onboarded as a Operations Associate at Amazon Developement Centre India (PNQ-10)
 
 ### Intern(US)
 [Xcitium](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
