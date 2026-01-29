@@ -51,7 +51,7 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ## 💼 Professional Experience
-### Operations Associate 
+### VAR Operations Associate 
 [Amazon](https://www.amazon.com/) Jan 2026- Present 
 
 ### Intern(US)
