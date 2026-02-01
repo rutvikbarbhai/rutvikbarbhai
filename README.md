@@ -53,6 +53,9 @@
 ## 💼 Professional Experience
 ### Associate 
 [Amazon](https://www.amazon.com/) Jan 2026- Present 
+- Worked with large-scale internal Amazon systems and operational tools to validate, audit, and process high-volume transactional data, ensuring accuracy, compliance, and system integrity across workflows.
+- Performed root-cause analysis on data mismatches and system-generated exceptions by analyzing logs, reports, and rule-based outputs, contributing to process optimization and defect reduction.
+- Utilized automation-driven workflows, dashboards, and rule engines to monitor operational KPIs, detect anomalies, and support data-backed decision making for business stakeholders.
 
 ### Intern(US)
 [Xcitium](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
