@@ -58,7 +58,7 @@
 - Utilized automation-driven workflows, dashboards, and rule engines to monitor operational KPIs, detect anomalies, and support data-backed decision making for business stakeholders.
 
 ### Intern(US)
-[Xcitium](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
+[Xcitium-NuFintech](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
 - Built data-driven trading intelligence models leveraging market microstructure gamma-exposure analytics.
 - Improved trade-outcome prediction accuracy by 30% through optimized ML pipelines and semantically rich
 composite features.
