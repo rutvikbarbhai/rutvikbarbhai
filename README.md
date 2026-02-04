@@ -124,7 +124,7 @@ Flutter app for table reservation database management
 - Bachelor of Technology, Computer Science and Engineering 
 - Minor Specialization in Computational Intelligence
 
-**Manipal Institute of Technology**  • 2022 – 2026
+**Manipal Institute of Technology**  • Sep 2022 – July 2026
 - **Relevant Coursework:**
   - Data Structures & Algorithms
   - Object Oriented Programming
