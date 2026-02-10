@@ -161,7 +161,6 @@ Flutter app for table reservation database management
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvikbarbhai&theme=react-dark" />
 </p>
 
-
 ---
 
 ### 🔥 GitHub Streaks  
@@ -175,7 +174,6 @@ Flutter app for table reservation database management
 </a
 ---
 
-### 🏆 GitHub Achievements  
 
 
 
