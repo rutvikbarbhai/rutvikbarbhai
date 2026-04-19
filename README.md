@@ -74,7 +74,19 @@ composite features.
 
 ## 🌟 Featured Projects  
 
-### 🤖 AI Powered Healthcare Operations Design Automation Using n8n
+### Decision-Tree-Based-Trade-Pattern-Mining-Using-Renko-Dataset
+
+Leakage-safe feature engineering, decision tree based clustering, interpretable rule extraction, and rigorous multi-stage validation using renko dataset. The workflow systematically reduces raw features into high-quality, production-ready trading patterns, emphasizing explainability, robustness, and out of sample reliability.
+
+<img 
+  src="https://github.com/user-attachments/assets/fa3efb02-55b5-4774-8a26-9aaad86acf1e" 
+  width="200" 
+  align="right" 
+  style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"
+/>
+
+
+### 🤖 AI Powered Healthcare Operations Design Automation Using n8n (2026)
 
 An AI-driven healthcare workflow built with n8n that automates insurance eligibility checks and pre-authorization using LLMs, APIs, and event-based orchestration.
 
@@ -92,7 +104,25 @@ An AI-driven healthcare workflow built with n8n that automates insurance eligibi
 
 **Tech Stack:** `n8n` `OpenAI (LLMs)` `PostgreSQL` `REST APIs` `Webhooks` `Workflow Automation` `Event-driven Architecture` 
 
-  
+
+### <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="25px"> Simple RAG Service for Website Q&A (2026)
+
+This project is a simple, self-contained Retrieval-Augmented Generation (RAG) service. Given a starting URL, it crawls a website, indexes its content, and answers questions strictly based on the information it has collected, providing citations for its answers.
+
+<img 
+  src="https://github.com/user-attachments/assets/b552a692-091d-441d-bc71-ccb3fae66a0d" 
+  width="200" 
+  align="right" 
+  style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"
+/>
+
+
+- **🛠️ Engineered an End-to-End RAG Pipeline using FastAPI and Scrapy to ingest and index web content, utilizing ChromaDB for vector storage and Sentence Transformers for semantic search.**
+- **🌐 Integrated a local Llama 3 model via Ollama, applying strict prompt engineering guardrails**
+- **☁️ Optimized Data Ingestion & Retrieval.**
+
+**Tech Stack:** `n8n` `OpenAI (LLMs)` `PostgreSQL` `REST APIs` `Webhooks` `Workflow Automation` `Event-driven Architecture` 
+
 ### 🌫️ Pollution Predictor (2025) 
 
 A Machine Learning Model forecasting air quality  
