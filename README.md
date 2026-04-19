@@ -57,7 +57,7 @@
 - Performed root-cause analysis on data mismatches and system-generated exceptions by analyzing logs, reports, and rule-based outputs, contributing to process optimization and defect reduction.
 - Utilized automation-driven workflows, dashboards, and rule engines to monitor operational KPIs, detect anomalies, and support data-backed decision making for business stakeholders.
 
-### Intern(US)
+### Machine Learning Operations (MLOps) Intern(US)
 [Xcitium-NuFintech](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
 - Built data-driven trading intelligence models leveraging market microstructure gamma-exposure analytics.
 - Improved trade-outcome prediction accuracy by 30% through optimized ML pipelines and semantically rich
