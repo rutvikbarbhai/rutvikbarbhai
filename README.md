@@ -76,12 +76,24 @@ composite features.
 
 ###  <img src="https://github.com/user-attachments/assets/8f09f616-c687-48a1-8a30-76dffda656b9" width="28" style="position: relative; top: 3px;"/>  Decision Tree Based Trade Pattern Mining Using Renko Dataset (2026)
 
+
 Leakage-safe feature engineering, decision tree based clustering, interpretable rule extraction, and rigorous multi-stage validation using renko dataset. The workflow systematically reduces raw features into high-quality, production-ready trading patterns, emphasizing explainability, robustness, and out of sample reliability.
+
+<img 
+  src="https://github.com/user-attachments/assets/fa3efb02-55b5-4774-8a26-9aaad86acf1e" 
+  width="150" 
+  align="right" 
+  style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"
+/>
+
 
 
 - **🛠️ Built an end-to-end quantitative ML pipeline to transform raw financial data into interpretable and production-ready trading patterns using Renko datasets**
 - **🧠 Engineered leakage-safe features with multi-stage reduction (190 → 50 features) ensuring robustness, reduced overfitting, and strong out-of-sample performance**
 - **🌳 Trained a decision tree–based clustering model generating 195 pattern clusters and extracted 42 high-confidence, rule-based trading signals**
+
+**Tech Stack:** `Feature-Engineering` `Feature-Extraction` `Pattern Mining` `TSFresh`   
+
 
 ###  <img src="https://github.com/user-attachments/assets/cf684a77-bb13-475a-9cba-b639ece52c8e" width="20" style="vertical-align: middle;" />  AI Powered Healthcare Operations Design Automation Using n8n (2026)
 
@@ -102,7 +114,7 @@ An AI-driven healthcare workflow built with n8n that automates insurance eligibi
 **Tech Stack:** `Postgres` `Json ` `PostgreSQL` `automation` `sql` `n8n-workflow` `openai-api` `supabase` `supabase-auth`
 
 
-### <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="25px"> Simple RAG Service for Website Q&A (2026)
+### <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="25px"> Simple RAG Service for Website Q&A (2025)
 
 This project is a simple, self-contained Retrieval-Augmented Generation (RAG) service. Given a starting URL, it crawls a website, indexes its content, and answers questions strictly based on the information it has collected, providing citations for its answers.
 
