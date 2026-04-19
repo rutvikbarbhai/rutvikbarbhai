@@ -51,6 +51,7 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
 ## 💼 Professional Experience
+
 ### Operations Associate Intern
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
 - Worked with large-scale internal Amazon systems and operational tools to validate, audit, and process high-volume transactional data, ensuring accuracy, compliance, and system integrity across workflows.
@@ -72,11 +73,31 @@ composite features.
 - 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
 
 ## 🌟 Featured Projects  
+
+### 🤖 AI Powered Healthcare Operations Design Automation Using n8n
+
+An AI-driven healthcare workflow built with n8n that automates insurance eligibility checks and pre-authorization using LLMs, APIs, and event-based orchestration.
+
+<img 
+  src="https://github.com/user-attachments/assets/11cefc5b-2517-402f-8892-0dda65a771a9" 
+  width="250" 
+  align="right" 
+  style="margin-left: 30px; margin-top: 30px; margin-bottom: 30px;"
+/>
+
+
+- **🤖 Automated insurance pre-authorization using n8n and AI, cutting manual effort by 65%.**
+- **🔄 Orchestrated real-time eligibility checks with AI-generated clinical justifications for faster submissions.**
+- **🗄️ Enabled approval tracking, proactive alerts, and operational analytics using PostgreSQL.**
+
+**Tech Stack:** `n8n` `OpenAI (LLMs)` `PostgreSQL` `REST APIs` `Webhooks` `Workflow Automation` `Event-driven Architecture` 
+
+  
 ### 🌫️ Pollution Predictor (2025) 
 
 A Machine Learning Model forecasting air quality  
 
-<img src="https://github.com/user-attachments/assets/4182585e-dbc2-4283-8a4a-a5785a50de41" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
+<img src="https://github.com/user-attachments/assets/4182585e-dbc2-4283-8a4a-a5785a50de41" width="225" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
 - 🏗️ **Designed and deployed a machine learning-powered web application for real-time air quality forecasting, addressing rising concerns over public health and climate change..**  
 - 📊 **Leveraged historical AQI, PM2.5, and PM10 datasets with advanced feature engineering to train deep learning models, enabling accurate future pollution predictions.**  
@@ -87,7 +108,7 @@ A Machine Learning Model forecasting air quality
 ### 🧬 Pedigree Chart Inheritance Predictor (2025)
 TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
 
-<img src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
+<img src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="225" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
 - 🛠️ **Built a custom pedigree chart dataset modeling autosomal dominant/recessive, X-linked dominant/recessive, and Ylinked dominant/recessive inheritance patterns.**
 - 📈 **Trained and optimized a TensorFlow classification model with preprocessing, normalization, and one-hot encoding ,using the Adam optimizer for faster convergence.**  
@@ -98,7 +119,7 @@ TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into A
 ### 🏥 Medisure Health Flutter Application (2024)
 A Flutter app for IoT based Arduino nano non-invasive device for comprehensive blood glucose monitoring.
 
-<img align="right" src="https://github.com/user-attachments/assets/b74aebe3-b068-4b33-84a3-1488b0b525c7" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
+<img align="right" src="https://github.com/user-attachments/assets/b74aebe3-b068-4b33-84a3-1488b0b525c7" width="225" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
 - 📱 **Developed an end-to-end industrial IoT health monitoring app using Flutter/Dart with Firebase for real-time sync.**
 - </> **Applied Concepts of Software Engineering Like SDLC Prototype Model in development, achieving 95% alignment with objectives and improving development efficiency by 40% through iterative prototype refinement.**  
@@ -110,7 +131,7 @@ A Flutter app for IoT based Arduino nano non-invasive device for comprehensive b
 Flutter app for table reservation database management
 
 
-<img src="https://github.com/user-attachments/assets/84a06f73-fc8b-441a-9181-ad3c42ee75a6" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
+<img src="https://github.com/user-attachments/assets/84a06f73-fc8b-441a-9181-ad3c42ee75a6" width="225" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
 
 - 📱 **Developed a cross-platform mobile application using Flutter and Dart, integrating Firebase for real time data synchronization and authentication, which enhanced user engagement by 30%.**
 - 🎨 **Designed intuitive UI/UX for Table reservation based mobile app, resulting in 25 % increase in user satisfaction and a 20 % reduction in user churn.**  
@@ -119,7 +140,7 @@ Flutter app for table reservation database management
 **Tech Stack:** `Flutter` `Dart` `JSON` `Google Firebase` `Firestone` `RestAPI`  
 
 ## 🎓 Education 
-<img src="https://github.com/user-attachments/assets/4e61b482-4888-4749-9670-f0cebd7b372f" alt="Manipal University Logo" width="150" align="right"/>
+<img src="https://github.com/user-attachments/assets/4e61b482-4888-4749-9670-f0cebd7b372f" alt="Manipal University Logo" width="225" align="right"/>
 
 - Bachelor of Technology, Computer Science and Engineering 
 - Minor Specialization in Computational Intelligence
