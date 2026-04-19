@@ -74,7 +74,7 @@ composite features.
 
 ## 🌟 Featured Projects  
 
-###  <img src="https://github.com/user-attachments/assets/8f09f616-c687-48a1-8a30-76dffda656b9" width="28" style="position: relative; top: 3px;"/>  Decision-Tree-Based-Trade-Pattern-Mining-Using-Renko-Dataset (2026)
+###  <img src="https://github.com/user-attachments/assets/8f09f616-c687-48a1-8a30-76dffda656b9" width="28" style="position: relative; top: 3px;"/>  Decision Tree Based Trade Pattern Mining Using Renko Dataset (2026)
 
 Leakage-safe feature engineering, decision tree based clustering, interpretable rule extraction, and rigorous multi-stage validation using renko dataset. The workflow systematically reduces raw features into high-quality, production-ready trading patterns, emphasizing explainability, robustness, and out of sample reliability.
 
@@ -83,7 +83,7 @@ Leakage-safe feature engineering, decision tree based clustering, interpretable 
 - **🧠 Engineered leakage-safe features with multi-stage reduction (190 → 50 features) ensuring robustness, reduced overfitting, and strong out-of-sample performance**
 - **🌳 Trained a decision tree–based clustering model generating 195 pattern clusters and extracted 42 high-confidence, rule-based trading signals**
 
-### 🤖 AI Powered Healthcare Operations Design Automation Using n8n (2026)
+###  <img src="https://github.com/user-attachments/assets/cf684a77-bb13-475a-9cba-b639ece52c8e" width="20" style="vertical-align: middle;" />  AI Powered Healthcare Operations Design Automation Using n8n (2026)
 
 An AI-driven healthcare workflow built with n8n that automates insurance eligibility checks and pre-authorization using LLMs, APIs, and event-based orchestration.
 
@@ -99,7 +99,7 @@ An AI-driven healthcare workflow built with n8n that automates insurance eligibi
 - **🔄 Orchestrated real-time eligibility checks with AI-generated clinical justifications for faster submissions.**
 - **🗄️ Enabled approval tracking, proactive alerts, and operational analytics using PostgreSQL.**
 
-**Tech Stack:** `n8n` `OpenAI (LLMs)` `PostgreSQL` `REST APIs` `Webhooks` `Workflow Automation` `Event-driven Architecture` 
+**Tech Stack:** `Postgres` `Json ` `PostgreSQL` `automation` `sql` `n8n-workflow` `openai-api` `supabase` `supabase-auth`
 
 
 ### <img src="https://github.com/user-attachments/assets/ed86026d-6c9d-4fc3-b324-b58defa239de" width="25px"> Simple RAG Service for Website Q&A (2026)
@@ -118,9 +118,9 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
 - **🌐 Integrated a local Llama 3 model via Ollama, applying strict prompt engineering guardrails**
 - **☁️ Optimized Data Ingestion & Retrieval.**
 
-**Tech Stack:** `n8n` `OpenAI (LLMs)` `PostgreSQL` `REST APIs` `Webhooks` `Workflow Automation` `Event-driven Architecture` 
+**Tech Stack:** `python` `Json` `PostgreSQL` `Sqlite` `Webhooks` `json-server` `rag` `generative-ai` `chromadb` `rag-pipeline` `llama3-8b`   
 
-### 🌫️ Pollution Predictor (2025) 
+###  <img src="https://github.com/user-attachments/assets/b83b271d-fafe-41be-bf84-7f74ccb310d1" alt="logo" height="20px"> Pollution Predictor (2025) 
 
 A Machine Learning Model forecasting air quality  
 
@@ -132,7 +132,7 @@ A Machine Learning Model forecasting air quality
   
 **Tech Stack:** `TensorFlow.js` `Python` `JupyterNotebook` `Keras` `Pandas` `Deep Neural Networks` 
 
-### 🧬 Pedigree Chart Inheritance Predictor (2025)
+###  <img src="https://github.com/user-attachments/assets/769215c1-debc-4fb3-bc0b-d2674a5b9630" alt="dna-logo" height="25">  Pedigree Chart Inheritance Predictor (2025)
 TensorFlow-Powered Machine Learning Model for Classifying Pedigree Charts into Autosomal Dominant, Autosomal Recessive, X-Linked Dominant, X-Linked Recessive Y-Linked Dominant, & Y-Linked Recessive Inheritance Pattern.
 
 <img src="https://github.com/user-attachments/assets/ce676ac9-ac9e-4e96-8c37-abd7ecded036" width="200" align="right" style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"/>
