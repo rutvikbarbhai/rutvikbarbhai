@@ -72,7 +72,27 @@ composite features.
 - 📊 **Data Visualization Dashboard:** Created a web dashboard with **Chart.js**, displaying metrics such as number of requests per domain and total data size transferred.  
 - 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
 
-## 🌟 Featured Projects  
+## <img src="https://github.com/user-attachments/assets/dcdcffb4-c4e2-40ee-84cc-aca8612d257e" width="30px">Featured Projects  
+
+
+###  <img src="https://github.com/user-attachments/assets/6467a42f-afae-4dc7-8ede-46f12a087c6f" width="20" /> Time Series Pattern Mining Using TSFresh (2026)
+
+A quantitative trading oriented time series analysis framework designed to systematically extract, identify, expand, and statistically validate recurring market and trade setup patterns from financial price series, returns, indicators, and derived trading signals.
+
+<img 
+  src="https://github.com/user-attachments/assets/f82599d0-e90c-4712-9931-f45a6fb7923f" 
+  width="150" 
+  align="right" 
+  style="margin-left: 20px; margin-top: 10px; margin-bottom: 10px;"
+/>
+
+
+
+- **🛠️ Built a leakage-safe sliding-window framework to extract and engineer trading features from financial time series**
+- **🧠 Discovered recurring market patterns using matrix profiles and expanded setups via similarity and DTW**
+- **🌳 Statistically validated and visualized trade structures to assess stability and robustness**
+
+**Tech Stack:** `Feature-Engineering` `Feature-Extraction` `Pattern Mining` `TSFresh`   
 
 ###  <img src="https://github.com/user-attachments/assets/8f09f616-c687-48a1-8a30-76dffda656b9" width="28" style="position: relative; top: 3px;"/>  Decision Tree Based Trade Pattern Mining Using Renko Dataset (2026)
 
@@ -132,7 +152,7 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
 
 **Tech Stack:** `python` `Json` `PostgreSQL` `Sqlite` `Webhooks` `json-server` `rag` `generative-ai` `chromadb` `rag-pipeline` `llama3-8b`   
 
-###  <img src="https://github.com/user-attachments/assets/b83b271d-fafe-41be-bf84-7f74ccb310d1" alt="logo" height="20px"> Pollution Predictor (2025) 
+###  <img src="https://github.com/user-attachments/assets/b83b271d-fafe-41be-bf84-7f74ccb310d1" alt="logo" height="20px"> Real Time Air Quality Forecasting using Deep Learning & Optimization (2025) 
 
 A Machine Learning Model forecasting air quality  
 
