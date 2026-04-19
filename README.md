@@ -78,12 +78,6 @@ composite features.
 
 Leakage-safe feature engineering, decision tree based clustering, interpretable rule extraction, and rigorous multi-stage validation using renko dataset. The workflow systematically reduces raw features into high-quality, production-ready trading patterns, emphasizing explainability, robustness, and out of sample reliability.
 
-<img 
-  src="https://github.com/user-attachments/assets/fa3efb02-55b5-4774-8a26-9aaad86acf1e" 
-  width="150" 
-  align="right" 
-  style="margin-left: 20px; margin-top: 20px; margin-bottom: 20px;"
-/>
 
 - **🛠️ Built an end-to-end quantitative ML pipeline to transform raw financial data into interpretable and production-ready trading patterns using Renko datasets**
 - **🧠 Engineered leakage-safe features with multi-stage reduction (190 → 50 features) ensuring robustness, reduced overfitting, and strong out-of-sample performance**
