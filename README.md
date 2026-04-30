@@ -75,7 +75,7 @@ composite features.
 ## <img src="https://github.com/user-attachments/assets/dcdcffb4-c4e2-40ee-84cc-aca8612d257e" width="30px">Featured Projects  
 
 
-###  <img src="https://github.com/user-attachments/assets/6467a42f-afae-4dc7-8ede-46f12a087c6f" width="20" /> Time Series Pattern Mining Using TSFresh -Xcxitium Internship (2026)
+###  <img src="https://github.com/user-attachments/assets/6467a42f-afae-4dc7-8ede-46f12a087c6f" width="20" /> Time Series Pattern Mining Using TSFresh (2026)
 
 A quantitative trading oriented time series analysis framework designed to systematically extract, identify, expand, and statistically validate recurring market and trade setup patterns from financial price series, returns, indicators, and derived trading signals.
 
