@@ -92,7 +92,7 @@ A quantitative trading oriented time series analysis framework designed to syste
 - **🧠 Discovered recurring market patterns using matrix profiles and expanded setups via similarity and DTW**
 - **🌳 Statistically validated and visualized trade structures to assess stability and robustness**
 
-**Tech Stack:** `Feature-Engineering` `Feature-Extraction` `Pattern Mining` `TSFresh`   
+**Tech Stack:** `Feature-Engineering` `Feature-Extraction` `Pattern Mining` `TSFresh` `Python`
 
 ###  <img src="https://github.com/user-attachments/assets/8f09f616-c687-48a1-8a30-76dffda656b9" width="28" style="position: relative; top: 3px;"/>  Decision Tree Based Trade Pattern Mining Using Renko Dataset (2026)
 
