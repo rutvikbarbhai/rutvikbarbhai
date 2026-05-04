@@ -217,6 +217,7 @@ Flutter app for table reservation database management
   - Computer Vision
   - Parallel Computing
   - Blockchain Technology
+  - Cloud Computing
 
 ## 📝 Publications
 - **Pollution Predictor** : A machine Learning Model For Forecasting Air Quality (Minor Project Publication )
