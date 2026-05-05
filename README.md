@@ -210,7 +210,7 @@ Flutter app for table reservation database management
   - Data Structures & Algorithms
   - Object Oriented Programming
   - Operating Systems 
-  - Computer Networks
+  - Computer Networks 
   - Soft Computing Paradigms
   - Artificial Intelligence 
   - Machine Learning
@@ -221,7 +221,7 @@ Flutter app for table reservation database management
 
 ## 📝 Publications
 - **Pollution Predictor** : A machine Learning Model For Forecasting Air Quality (Minor Project Publication )
-- **Medisure Type 2 Diabetes Predictor** (Undergoing)
+- **Medisure Type 2 Diabetes Predictor** 
 
 ## 💡 Patents
 - IN23/2404 **Application No. 202441091887** Device and method for monitoring blood parameters of a user (Early Publication available)
@@ -262,7 +262,8 @@ Flutter app for table reservation database management
 
 ---
 
-## 🗂️ Top Languages  
+## 🗂️ Top Languages 
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbarbhai&langs_count=10&layout=compact&theme=radical" />
 
