@@ -3,7 +3,7 @@
 🤖 **Minor Specialization in Computational Intelligence**  
 🚀 **Passionate about Artificial Intelligence & Machine Learning**  
 
-
+...........   ....
 ✨ I love building intelligent systems that combine **Artificial Intelligence & Machine Learning** to solve real-world problems.  
 🔍 Currently exploring **LLMs, Computer Vision, and Blockchain Security**, while contributing to **open-source projects**.   
 🌱 On a mission to **learn, build, and innovate every day**.
