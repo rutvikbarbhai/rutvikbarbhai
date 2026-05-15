@@ -1,7 +1,7 @@
 # **<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai**  
 💻 **Graduate CS 26' @Manipal Institute of Technology**  
 🤖 **Minor Specialization in Computational Intelligence**  
-🚀 **Passionate about Artificial Intelligence & Machine Learning**  
+🚀 **Passionate about AI Engineering**  
 
 
 ✨ I love building intelligent systems that combine **Artificial Intelligence & Machine Learning** to solve real-world problems.  
