@@ -61,12 +61,12 @@
 
 ### AI/ML MLOps Intern(US)
 [Xcitium / Comodo Cybersecurity Solutions](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
-- Worked with Billionaire Entrepreneur and Cybersecurity pioneer Melih Abdulhayoğlu (#1281, Forbes Billionaires 2019) founder and CEO of Comodo Cybersecurity Solutions 
-- Built data-driven trading intelligence models leveraging market microstructure gamma-exposure analytics.
-- Improved trade-outcome prediction accuracy by 30% through optimized ML pipelines and semantically rich
+- 🌟 Worked with Billionaire Entrepreneur and Cybersecurity pioneer Melih Abdulhayoğlu (#1281, Forbes Billionaires 2019) founder and CEO of Comodo Cybersecurity Solutions 
+- 📈 Built data-driven trading intelligence models leveraging market microstructure gamma-exposure analytics.
+- 🎯 Improved trade-outcome prediction accuracy by 30% through optimized ML pipelines and semantically rich
 composite features.
-- Automated an oscillator-based signal-detection framework, achieving 5× faster feature extraction.
-- Collaborated with research leads to integrate structural and statistical indicators into production-grade models.
+- ⚙️ Automated an oscillator-based signal-detection framework, achieving 5× faster feature extraction.
+- 🤝 Collaborated with research leads to integrate structural and statistical indicators into production-grade models.
 
 ### Software Developer Intern  
 [JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024 
