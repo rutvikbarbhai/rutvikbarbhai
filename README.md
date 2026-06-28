@@ -1,5 +1,5 @@
 # **<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai**  
-💻 **Graduate Engineer CSE 26' @Manipal Institute of Technology**  
+💻 **Graduate Engineering CSE 26' @Manipal Institute of Technology**  
 🤖 **Minor Specialization in Computational Intelligence**  
 🚀 **Passionate about AI Engineering**  
 
