@@ -228,20 +228,12 @@ Flutter app for table reservation database management
 ## 📈 GitHub Stats & Activity  
 
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/rutvikbarbhai">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutvikbarbhai&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="Rutvik's GitHub Stats" />
-  </a>
-
-  <img height="180em" src="https://streak-stats.demolab.com?user=rutvikbarbhai&theme=dark&hide_border=true&border_radius=10" alt="Rutvik's GitHub Streak" />
-</p>
-
+ 
 <div align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%" />
 </div>
----
+
 
 ### 📊 Contribution Graph  
 
@@ -249,21 +241,15 @@ Flutter app for table reservation database management
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutvikbarbhai&theme=react-dark" />
 </p>
 
----
+
 
 ### 🔥 GitHub Streaks  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rutvikbarbhai&theme=radical" />
 
-<a href="https://github.com/rutvikbarbhai?tab=achievements" title="Pull Shark">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark">
-</a>
-<a href="https://github.com/rutvikbarbhai?tab=achievements" title="Quickdraw">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw">
-</a
----
+ <a href="https://github.com/rutvikbarbhai">
+  </a>
 
-
-
+  <img height="280em" src="https://streak-stats.demolab.com?user=rutvikbarbhai&theme=dark&hide_border=true&border_radius=10" alt="Rutvik's GitHub Streak" />
+</p>
 
 
 ---
