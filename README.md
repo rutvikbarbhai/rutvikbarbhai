@@ -252,15 +252,6 @@ Flutter app for table reservation database management
 </p>
 
 
----
-
-## 🗂️ Top Languages 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbarbhai&langs_count=10&layout=compact&theme=radical" />
-
-
----
 
 
 
