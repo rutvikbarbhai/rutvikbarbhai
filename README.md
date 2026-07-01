@@ -239,7 +239,7 @@ Flutter app for table reservation database management
 </p>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-3d-city.svg" alt="3D Contribution Calendar" width="100%" />
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" width="100%" />
 </div>
 ---
 
