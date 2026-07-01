@@ -227,13 +227,20 @@ Flutter app for table reservation database management
 
 ## 📈 GitHub Stats & Activity  
 
-### ⚡ GitHub Stats  
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rutvikbarbhai&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikbarbhai&layout=compact&theme=radical" />
+  <a href="https://github.com/rutvikbarbhai">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rutvikbarbhai&show_icons=true&theme=dark&hide_border=true&border_radius=10" alt="Rutvik's GitHub Stats" />
+  </a>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=rutvikbarbhai&theme=dark&hide_border=true&border_radius=10" alt="Rutvik's GitHub Streak" />
 </p>
 
+<div align="center">
+  <img src="./profile-3d-contrib/profile-3d-city.svg" alt="3D Contribution Calendar" width="100%" />
+</div>
 ---
 
 ### 📊 Contribution Graph  
