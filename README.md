@@ -53,7 +53,11 @@
 
 ## 💼 Professional Experience
 
-### Operations Associate Intern
+### AI/ML B5 Software Engineer
+[NatWest](https://www.natwest.com/) Jul 2026- Present
+- Accepted Fixed Term Contract with Natwest Group as a AI/ML B5 Software Engineer official joining the team on 23rd of July
+
+### AI/ML Data Associate 
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
 - Worked with large-scale internal Amazon systems and operational tools to validate, audit, and process high-volume transactional data, ensuring accuracy, compliance, and system integrity across workflows.
 - Performed root-cause analysis on data mismatches and system-generated exceptions by analyzing logs, reports, and rule-based outputs, contributing to process optimization and defect reduction.
@@ -67,11 +71,6 @@
 composite features. Automated an oscillator-based signal-detection framework, achieving 5× faster feature extraction.
 - 🤝 **Collaborated:** with research leads to integrate structural and statistical indicators into production-grade models.
 
-### Software Developer Intern  
-[JPMorgan Chase](https://www.jpmorganchase.com/)  Jun 2024 – Jul 2024 
-- 🌐 **HTTP Request Tracking:** Tracked and logged HTTP requests and responses (URLs, headers, payloads) into a secure **MySQL database** using **Java & Spring Boot**.  
-- 📊 **Data Visualization Dashboard:** Created a web dashboard with **Chart.js**, displaying metrics such as number of requests per domain and total data size transferred.  
-- 🔐 **Security & Authentication:** Implemented **user authentication** and **data encryption** with **Spring Security** to ensure privacy and controlled dashboard access.
 
 ## <img src="https://github.com/user-attachments/assets/dcdcffb4-c4e2-40ee-84cc-aca8612d257e" width="30px">Featured Projects  
 
