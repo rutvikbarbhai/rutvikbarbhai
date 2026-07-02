@@ -1,8 +1,14 @@
-# **<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai**  
-💻 **Graduate Engineering CSE 26' @Manipal Institute of Technology**  
-🤖 **Minor Specialization in AI / ML Computational Intelligence**  
-🚀 **Passionate about AI & Data Engineering**  
+<img
+  src="https://github.com/user-attachments/assets/44601ccd-91e3-4d46-8ed6-1540d4e01862"
+  width="220"
+  align="right"
+/>
 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rutvik Barbhai
+
+💻 **Graduate Engineering CSE 26' @ Manipal Institute of Technology**  
+🤖 **Minor Specialization in AI / ML Computational Intelligence**  
+🚀 **Passionate about AI & Data Engineering**
 
 ✨ I love building intelligent systems that combine **Artificial Intelligence & Machine Learning** to solve real-world problems.  
 🔍 Currently exploring **LLMs, Computer Vision, and Blockchain Security**, while contributing to **open-source projects**.   
