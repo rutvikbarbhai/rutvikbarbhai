@@ -6,7 +6,7 @@
   width="175"
   align="right"
 />
-💻 **Graduate Engineering CSE 26' @ Manipal Institute of Technology**  
+💻 **Graduate Engineering CS 26' @ Manipal Institute of Technology**  
 🤖 **Minor Specialization in AI / ML Computational Intelligence**  
 🚀 **Passionate about AI & Data Engineering**
 
