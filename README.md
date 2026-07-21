@@ -8,8 +8,9 @@
 />
 
 💻 **Graduate Engineering @ Manipal Institute of Technology CS 26**
-🚀 **Passionate about AI & Data Engineering**
 🤖 **Minor Specialization in AI / ML Computational Intelligence**  
+🚀 **Passionate about AI & Data Engineering** 
+
 
 
 ✨ I love building intelligent systems that combine **Artificial Intelligence & Machine Learning** to solve real-world problems.  
