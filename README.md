@@ -9,7 +9,7 @@
 
 <p>
 💻 <b>Graduate Engineering @ Manipal Institute of Technology CS 26' </b><br>
-🤖 <b>Minor Specialization in AI / ML Computational Intelligence</b><br>
+🤖 <b>Minor Specialization in AI / ML Comlputational Intelligence</b><br>
 🚀 <b>Passionate about AI & Data Engineering</b>
 </p>
 
