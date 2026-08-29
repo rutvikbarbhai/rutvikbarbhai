@@ -62,9 +62,10 @@
 
 ## 💼 Professional Experience
 
-### B5 Software Engineer
+### Software Engineer
 [NatWest](https://www.natwest.com/) Jul 2026- Present
 - Accepted a Fixed-Term Contract with NatWest Group as an AI/ML Software Engineer (B5). Excited to officially join the team on 23rd July and contribute to building innovative AI-driven solutions.
+- 
 
 ### Data Engineer Intern
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
