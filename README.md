@@ -64,8 +64,9 @@
 
 ### Software Engineer
 [NatWest](https://www.natwest.com/) Jul 2026- Present
-- Accepted a Fixed-Term Contract with NatWest Group as an AI/ML Software Engineer (B5). Excited to officially join the team on 23rd July and contribute to building innovative AI-driven solutions.
-- 
+- Engineered a historical peer-data pipeline for KP count plausibility analysis, integrating application data with fulfilled application records from MongoDB.
+- Designed a hierarchical data segmentation and fallback framework across Entity Type, Region, SIC and Trading Age to reliably construct relevant peer groups.
+- Implemented data quality and statistical processing using MAD-based outlier detection and automated peer-distribution statistics (P5/P25/P50/P75/P95, mean, standard deviation)
 
 ### Data Engineer Intern
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
