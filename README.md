@@ -62,17 +62,17 @@
 
 ## 💼 Professional Experience
 
-### AI/ML B5 Software Engineer
+### B5 Software Engineer
 [NatWest](https://www.natwest.com/) Jul 2026- Present
 - Accepted a Fixed-Term Contract with NatWest Group as an AI/ML Software Engineer (B5). Excited to officially join the team on 23rd July and contribute to building innovative AI-driven solutions.
 
-### AI/ML Data Associate 
+### Software Engineer Intern 
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
 - Worked with large-scale internal Amazon systems and operational tools to validate, audit, and process high-volume transactional data, ensuring accuracy, compliance, and system integrity across workflows.
 - Performed root-cause analysis on data mismatches and system-generated exceptions by analyzing logs, reports, and rule-based outputs, contributing to process optimization and defect reduction.
 - Utilized automation-driven workflows, dashboards, and rule engines to monitor operational KPIs, detect anomalies, and support data-backed decision making for business stakeholders.
 
-### AI/ML MLOps Intern(US)
+### Software Engineer Intern(US)
 [Xcitium / Comodo Cybersecurity Solutions](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
 - 🌟 **Worked with Billionaire:** Entrepreneur and Cybersecurity pioneer Melih Abdulhayoğlu (#1281, Forbes Billionaires 2019) founder and CEO of Comodo Cybersecurity Solutions 
 - 📈 **Built data-driven trading intelligence models:** leveraging market microstructure gamma-exposure analytics.
