@@ -10,12 +10,12 @@
 <p>
 💻 <b> Engineering @ Manipal Institute of Technology Computer Science 26' </b><br>
 🤖 <b>Minor Specialization in AI / ML Computational Intelligence</b><br>
-🚀 <b>Passionate about AI & Data Engineering</b>
 </p>
 
 ✨ I love building intelligent systems that combine **Artificial Intelligence & Machine Learning** to solve real-world problems.  
 🔍 Currently exploring **LLMs, Computer Vision, and Blockchain Security**, while contributing to **open-source projects**.   
 🌱 On a mission to **learn, build, and innovate every day**.
+🚀 Let Create History Together 
 ##  <img src="https://github.com/user-attachments/assets/612137fd-b2de-411c-acd7-f94c4811e9f2" height="30px" style="vertical-align:text-bottom;">Skills & Technologies
 
 ### Programming Languages  
