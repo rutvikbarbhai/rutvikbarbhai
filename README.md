@@ -66,7 +66,7 @@
 [NatWest](https://www.natwest.com/) Jul 2026- Present
 - Accepted a Fixed-Term Contract with NatWest Group as an AI/ML Software Engineer (B5). Excited to officially join the team on 23rd July and contribute to building innovative AI-driven solutions.
 
-### Data Engineer
+### Data Engineer Intern
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
 - Worked with large-scale internal Amazon systems and operational tools to validate, audit, and process high-volume transactional data, ensuring accuracy, compliance, and system integrity across workflows.
 - Performed root-cause analysis on data mismatches and system-generated exceptions by analyzing logs, reports, and rule-based outputs, contributing to process optimization and defect reduction.
