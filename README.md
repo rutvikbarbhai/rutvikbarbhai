@@ -4,7 +4,7 @@
 
 
 <p>
-💻 <b> Engineering @ Manipal Institute of Technology Computer Science 26 </b><br>
+💻 <b> Engineering @ Manipal Institute of Technology Computer Science 26' </b><br>
 🤖 <b>Minor Specialization in Computational Intelligence</b><br>
 </p>
 
