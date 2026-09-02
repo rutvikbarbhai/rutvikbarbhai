@@ -4,8 +4,8 @@
 
 
 <p>
-💻 <b> Engineering @ Manipal Institute of Technology Computer Science 2026' </b><br>
-🤖 <b>Minor Specialization in Computational Intelligence (Artificial Intelligence & Machine Learning)</b><br>
+💻 <b> Engineering @ Manipal Institute of Technology Computer Science 26' </b><br>
+🤖 <b>Minor Specialization in Computational Intelligence</b><br>
 </p>
 
 ✨ I love building intelligent systems that combine **Artificial Intelligence & Machine Learning** to solve real-world problems.  
