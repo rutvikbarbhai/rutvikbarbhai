@@ -63,13 +63,12 @@
 - Designed a hierarchical data segmentation and fallback framework across Entity Type, Region, SIC and Trading Age to reliably construct relevant peer groups.
 - Implemented data quality and statistical processing using MAD-based outlier detection and automated peer-distribution statistics (P5/P25/P50/P75/P95, mean, standard deviation)
 
-### Data Engineer Intern
+### Software Engineer Intern
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
-- Worked with large-scale internal Amazon systems and operational tools to validate, audit, and process high-volume transactional data, ensuring accuracy, compliance, and system integrity across workflows.
-- Performed root-cause analysis on data mismatches and system-generated exceptions by analyzing logs, reports, and rule-based outputs, contributing to process optimization and defect reduction.
-- Utilized automation-driven workflows, dashboards, and rule engines to monitor operational KPIs, detect anomalies, and support data-backed decision making for business stakeholders.
+- Performed root-cause analysis and debugging of data inconsistencies and system-generated exceptions by analyzing application logs, system outputs, and business rules, identifying defects and contributing to improvements in system reliability and process efficiency.
+- Leveraged automation frameworks, dashboards, rule-based engines, and monitoring workflows to streamline repetitive processes, detect system anomalies, track operational KPIs, and support data-driven engineering and business decisions.
 
-### AI/ML Ops Intern(US)
+### Software Engineer Intern(US)
 [Xcitium / Comodo Cybersecurity Solutions](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
 - 🌟 **Worked with Billionaire:** Entrepreneur and Cybersecurity pioneer Melih Abdulhayoğlu (#1281, Forbes Billionaires 2019) founder and CEO of Comodo Cybersecurity Solutions 
 - 📈 **Built data-driven trading intelligence models:** leveraging market microstructure gamma-exposure analytics.
