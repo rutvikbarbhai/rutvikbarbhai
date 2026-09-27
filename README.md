@@ -59,7 +59,7 @@
 ## 💼 Professional Experience
 
 ### Software Engineer
-[NatWest](https://www.natwest.com/) Jul 2026- Present
+[NatWest Markets](https://www.natwest.com/) Jul 2026- Present
 - Engineered a historical peer-data pipeline for KP count plausibility analysis, integrating application data with fulfilled application records from MongoDB.
 - Designed a hierarchical data segmentation and fallback framework across Entity Type, Region, SIC and Trading Age to reliably construct relevant peer groups.
 - Implemented data quality and statistical processing using MAD-based outlier detection and automated peer-distribution statistics (P5/P25/P50/P75/P95, mean, standard deviation)
