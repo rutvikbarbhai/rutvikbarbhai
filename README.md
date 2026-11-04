@@ -59,7 +59,7 @@
 ## 💼 Professional Experience
 
 ### Software Engineer
-[NatWest Markets](https://www.natwest.com/) Jul 2026- Present
+[NatWest](https://www.natwest.com/) Jul 2026- Present
 - Optimized a production RAG Chatbot to respond ~3× faster  by eliminating backend bottlenecks and short-circuiting common queries, while preserving answer accuracy.
 - Built an async deep-health endpoint probing mongodb, auth, and LLM-gateway dependencies in parallel, returning actionable 503s on failure while treating slow-starting services as informational to avoid false-positives. 
 - Eliminated 215 false-positive drift alerts per month and reduced ERROR-log volume 35 % in the PCA-check-registry by root-causing a reconciliation bug in the collection initializer, improving startup reliability and on-call signal quality.
