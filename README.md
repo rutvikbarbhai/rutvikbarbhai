@@ -58,13 +58,13 @@
 
 ## 💼 Professional Experience
 
-### Software Engineer
+### Software Dev Engineer
 [NatWest](https://www.natwest.com/) Jul 2026- Present
 - Optimized a production RAG Chatbot to respond ~3× faster  by eliminating backend bottlenecks and short-circuiting common queries, while preserving answer accuracy.
 - Built an async deep-health endpoint probing mongodb, auth, and LLM-gateway dependencies in parallel, returning actionable 503s on failure while treating slow-starting services as informational to avoid false-positives. 
 - Eliminated 215 false-positive drift alerts per month and reduced ERROR-log volume 35 % in the PCA-check-registry by root-causing a reconciliation bug in the collection initializer, improving startup reliability and on-call signal quality.
 
-### Software Engineer Intern
+### Software Dev Engineer Intern
 [Amazon](https://www.amazon.com/) Jan 2026- Jun 2026
 - Built a production-scale ML anomaly detection pipeline for image validation, achieving >95% accuracy. 
 - Designed a distributed regression testing framework with pixel-level validation and asynchronous metadata diffing, enabling early defect detection in pre-deployment CI/CD pipelines.
@@ -72,7 +72,7 @@
 - Migrated legacy services to a cloud-native architecture using scalable, loosely coupled components, improving system throughput, fault tolerance, and horizontal scalability under production load.
 - Debugged critical distributed system failures including cross-region authentication latency and clock drifts, using end-to-end tracing to guarantee strict multi-region data consistency.
 
-### Software Engineer Intern
+### Software Dev Engineer Intern
 [Xcitium / Comodo Cybersecurity Solutions](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
 - 🌟 **Worked with Billionaire:** Entrepreneur and Cybersecurity pioneer Melih Abdulhayoğlu (#1281, Forbes Billionaires 2019) founder and CEO of Comodo Cybersecurity Solutions 
 - 📈 **Built data-driven trading intelligence models:** leveraging market microstructure gamma-exposure analytics.
