@@ -77,8 +77,8 @@
 - Debugged critical distributed system failures including cross-region authentication latency and clock drifts, using end-to-end tracing to guarantee strict multi-region data consistency.
 
 ### Software Dev Engineer Intern
-[Xcitium / Comodo Cybersecurity Solutions](https://www.xcitium.com/)  Nov 2025 – Jan 2026 
-- 🌟 **Worked with Billionaire:** Entrepreneur and Cybersecurity pioneer Melih Abdulhayoğlu (#1281, Forbes Billionaires 2019) founder and CEO of Comodo Cybersecurity Solutions 
+[Comodo securities Solutions](https://www.comodo.com/)  Nov 2025 – Jan 2026 
+- 🌟 **Worked with Billionaire:** Entrepreneur and Cybersecurity pioneer Melih Abdulhayoğlu (#1281, Forbes Billionaires 2019) founder and CEO of Comodo Cybersecurity Solutions on to build NuFintech, A ventures focused on quantitative hedge fund strategies, advanced quantitative trading research, algorithmic modelling, and financial engineering.
 - 📈 **Built data-driven trading intelligence models:** leveraging market microstructure gamma-exposure analytics.
 - 🎯 **Improved trade-outcome prediction:** accuracy by 30% through optimized ML pipelines and semantically rich
 composite features. Automated an oscillator-based signal-detection framework, achieving 5× faster feature extraction.
